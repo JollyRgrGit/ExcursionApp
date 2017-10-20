@@ -1,0 +1,15 @@
+* {
+  font-family: Verdana;
+  background-color:black;
+  text-align: center;
+}
+h1{
+  color: white;
+  font-size: 50px;
+  font-weight: Normal;
+  background-color: black;
+}
+a.linky{
+color: Aquamarine;
+font-size: 16px;
+}
